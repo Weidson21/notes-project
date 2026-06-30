@@ -1,0 +1,9 @@
+# Cache do python
+__pycache__/
+*.py[cod]
+
+# Ambiente virtual
+.venv/
+
+# Variáveis do ambiente
+.env/
